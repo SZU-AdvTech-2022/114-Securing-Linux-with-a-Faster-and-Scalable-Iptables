@@ -1,0 +1,10 @@
+@article{REPO-115,
+    author = "Miano, Sebastiano and Bertrone, Matteo and Risso, Fulvio and Bernal, Mauricio V{\'a}squez and Lu, Yunsong and Pi, Jianwen",
+    journal = "ACM SIGCOMM Computer Communication Review",
+    number = "3",
+    pages = "2--17",
+    publisher = "ACM New York, NY, USA",
+    title = "{Securing Linux with a Faster and Scalable Iptables}",
+    volume = "49",
+    year = "2019"
+}
